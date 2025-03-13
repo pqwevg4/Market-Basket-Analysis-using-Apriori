@@ -23,7 +23,7 @@ pip install pandas numpy mlxtend
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/market-basket-analysis.git
+   git clone https://github.com/pqwevg4/Market-Basket-Analysis-using-Apriori.git
    cd market-basket-analysis
    ```
 2. Open Jupyter Notebook and run [Market_Basket_Analysis.ipynb](https://github.com/pqwevg4/Market-Basket-Analysis-using-Apriori/blob/main/Market_Basket_Analysis.ipynb).
@@ -40,14 +40,6 @@ pip install pandas numpy mlxtend
 - **Retail & E-commerce**: Recommending product bundles
 - **Marketing Strategies**: Targeted promotions based on frequent purchases
 - **Supply Chain Optimization**: Stocking products based on buying patterns
-
-## Sample Output
-```
-  antecedents    consequents  support  confidence  lift
-------------------------------------------------------
-{milk}        -> {bread}      0.23     0.75       1.5
-{cheese, wine} -> {crackers}  0.15     0.65       1.8
-```
 
 ## Contribution
 Feel free to fork this repository and enhance the analysis with **visualizations**, different **threshold values**, or alternative **algorithms**!
