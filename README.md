@@ -45,5 +45,5 @@ pip install pandas numpy mlxtend
 Feel free to fork this repository and enhance the analysis with **visualizations**, different **threshold values**, or alternative **algorithms**!
 
 ## Contact
-For any queries, connect on **LinkedIn**: [Your Name](https://www.linkedin.com/in/yourprofile)
+For any queries, connect on **LinkedIn**: [Vinay Shidurkar](www.linkedin.com/in/vinayshidurkar)
 
