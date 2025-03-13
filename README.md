@@ -26,7 +26,7 @@ pip install pandas numpy mlxtend
    git clone https://github.com/yourusername/market-basket-analysis.git
    cd market-basket-analysis
    ```
-2. Open Jupyter Notebook and run `Market_Basket_Analysis.ipynb`.
+2. Open Jupyter Notebook and run [Market_Basket_Analysis.ipynb](https://github.com/pqwevg4/Market-Basket-Analysis-using-Apriori/blob/main/Market_Basket_Analysis.ipynb).
 3. The output will display frequent itemsets and association rules.
 
 ## Steps in the Notebook
