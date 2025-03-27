@@ -41,6 +41,11 @@ pip install pandas numpy mlxtend
 - **Marketing Strategies**: Targeted promotions based on frequent purchases
 - **Supply Chain Optimization**: Stocking products based on buying patterns
 
+
+
+
+Link to youtube video : https://youtu.be/O9HU_YmMbfw
+
 ## Contribution
 Feel free to fork this repository and enhance the analysis with **visualizations**, different **threshold values**, or alternative **algorithms**!
 
